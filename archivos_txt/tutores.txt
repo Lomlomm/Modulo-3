@@ -1,0 +1,112 @@
+{ 
+    nombre : Enrique 
+    apellido : Arellano 
+    edad : 57 
+    hijo : Vanessa 
+    ocupacion : Telefonista 
+} 
+{ 
+    nombre : Marissa 
+    apellido : Serna 
+    edad : 55 
+    hijo : Daniel 
+    ocupacion : Escritora 
+} 
+{ 
+    nombre : Enrique 
+    apellido : Arellano 
+    edad : 57 
+    hijo : Vanessa 
+    ocupacion : Telefonista 
+} 
+{ 
+    nombre : Marissa 
+    apellido : Serna 
+    edad : 55 
+    hijo : Daniel 
+    ocupacion : Escritora 
+} 
+{ 
+    nombre : Enrique 
+    apellido : Arellano 
+    edad : 57 
+    hijo : Vanessa 
+    ocupacion : Telefonista 
+} 
+{ 
+    nombre : Marissa 
+    apellido : Serna 
+    edad : 55 
+    hijo : Daniel 
+    ocupacion : Escritora 
+} 
+{ 
+    nombre : Enrique 
+    apellido : Arellano 
+    edad : 57 
+    hijo : Vanessa 
+    ocupacion : Telefonista 
+} 
+{ 
+    nombre : Marissa 
+    apellido : Serna 
+    edad : 55 
+    hijo : Daniel 
+    ocupacion : Escritora 
+} 
+{ 
+    nombre : Enrique 
+    apellido : Arellano 
+    edad : 57 
+    hijo : Vanessa 
+    ocupacion : Telefonista 
+} 
+{ 
+    nombre : Marissa 
+    apellido : Serna 
+    edad : 55 
+    hijo : Daniel 
+    ocupacion : Escritora 
+} 
+{ 
+    nombre : Enrique 
+    apellido : Arellano 
+    edad : 57 
+    hijo : Vanessa 
+    ocupacion : Telefonista 
+} 
+{ 
+    nombre : Marissa 
+    apellido : Serna 
+    edad : 55 
+    hijo : Daniel 
+    ocupacion : Escritora 
+} 
+{ 
+    nombre : Enrique 
+    apellido : Arellano 
+    edad : 57 
+    hijo : Vanessa 
+    ocupacion : Telefonista 
+} 
+{ 
+    nombre : Marissa 
+    apellido : Serna 
+    edad : 55 
+    hijo : Daniel 
+    ocupacion : Escritora 
+} 
+{ 
+    nombre : Enrique 
+    apellido : Arellano 
+    edad : 57 
+    hijo : Vanessa 
+    ocupacion : Telefonista 
+} 
+{ 
+    nombre : Marissa 
+    apellido : Serna 
+    edad : 55 
+    hijo : Daniel 
+    ocupacion : Escritora 
+} 

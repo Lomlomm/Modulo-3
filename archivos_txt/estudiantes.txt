@@ -1,0 +1,160 @@
+{ 
+    nombre : Vanessa 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : B 
+    faltas : 11 
+    aprobo : False 
+} 
+{ 
+    nombre : Daniel 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : A 
+    faltas : 2 
+    aprobo : True 
+} 
+{ 
+    nombre : Vanessa 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : B 
+    faltas : 11 
+    aprobo : False 
+} 
+{ 
+    nombre : Daniel 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : A 
+    faltas : 2 
+    aprobo : True 
+} 
+{ 
+    nombre : Vanessa 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : B 
+    faltas : 11 
+    aprobo : False 
+} 
+{ 
+    nombre : Daniel 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : A 
+    faltas : 2 
+    aprobo : True 
+} 
+{ 
+    nombre : Vanessa 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : B 
+    faltas : 11 
+    aprobo : False 
+} 
+{ 
+    nombre : Daniel 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : A 
+    faltas : 2 
+    aprobo : True 
+} 
+{ 
+    nombre : Vanessa 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : B 
+    faltas : 11 
+    aprobo : False 
+} 
+{ 
+    nombre : Daniel 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : A 
+    faltas : 2 
+    aprobo : True 
+} 
+{ 
+    nombre : Vanessa 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : B 
+    faltas : 11 
+    aprobo : False 
+} 
+{ 
+    nombre : Daniel 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : A 
+    faltas : 2 
+    aprobo : True 
+} 
+{ 
+    nombre : Vanessa 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : B 
+    faltas : 11 
+    aprobo : False 
+} 
+{ 
+    nombre : Daniel 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : A 
+    faltas : 2 
+    aprobo : True 
+} 
+{ 
+    nombre : Vanessa 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : B 
+    faltas : 11 
+    aprobo : False 
+} 
+{ 
+    nombre : Daniel 
+    apellido : Arellano 
+    edad : 21 
+    tutor : {'nombre': 'Enrique', 'apellido': 'Arellano', 'edad': 57, 'hijo': 'Vanessa', 'ocupacion': 'Telefonista'} 
+    calificacion : 10 
+    grupo : A 
+    faltas : 2 
+    aprobo : True 
+} 
